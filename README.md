@@ -17,6 +17,20 @@ The project combines traditional credit risk concepts with machine learning to:
 - Identify high-risk borrowers and their risk drivers
 - Deploy the final model through an interactive Streamlit dashboard
 
+## Dashboard Preview
+
+### Portfolio Overview
+
+![Portfolio Overview](images/credit-risk-dashboard-overview.png)
+
+### Stress Testing
+
+![Stress Testing](images/credit-risk-stress-testing.png)
+
+### Borrower Risk Analysis
+
+![Borrower Risk Analysis](images/credit-risk-borrower-analysis.png)
+
 ## Machine Learning Models
 
 Three classification models were evaluated:
