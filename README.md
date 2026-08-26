@@ -17,6 +17,9 @@ The project combines traditional credit risk concepts with machine learning to:
 - Identify high-risk borrowers and their risk drivers
 - Deploy the final model through an interactive Streamlit dashboard
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-brightgreen?style=for-the-badge&logo=streamlit)](https://xavier-credit-risk-portfolio-model.streamlit.app/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-View%20Notebook-orange?style=for-the-badge&logo=jupyter)](Credit_Risk_Portfolio_Model_Final.ipynb)
+
 ## Dashboard Preview
 
 ### Portfolio Overview
